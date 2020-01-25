@@ -7,10 +7,7 @@ package animals;
 public class Dragon {
 
 
-    //Deleted all the comments this is a new one O_o
-    //hello again
-    //Helloooooooooooooooooooooooooo
-    //hello
+    //no more comments time for bedd night foo
     private String name;
     private String specialMove;
     private double health;
