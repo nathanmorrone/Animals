@@ -9,6 +9,7 @@ public class Dragon {
     //HELLO
     //Hello times 2
     //HELLO THREE TIMES
+    //Hello 4 times
     private String name;
     private String specialMove;
     private double health;
