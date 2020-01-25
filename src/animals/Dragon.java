@@ -7,6 +7,7 @@ package animals;
 public class Dragon {
 
     //HELLO
+    //Hello times 2
     private String name;
     private String specialMove;
     private double health;
