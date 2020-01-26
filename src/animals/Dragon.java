@@ -7,7 +7,7 @@ package animals;
 public class Dragon {
 
 
-    //no more comments time for bedd night foo
+    //january 26th 2020 1st comment
     private String name;
     private String specialMove;
     private double health;
