@@ -16,6 +16,7 @@ public class Dragon {
     //7th comment of the day
     //8th COMENT DRAGON MAN
     //9th comment from branch dragon man
+    //10th comment from branch tempMaster
     private String name;
     private String specialMove;
     private double health;
