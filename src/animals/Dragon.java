@@ -1,14 +1,14 @@
 package animals;
-
 /**
  * Dragon class
- *
  * @author nathan
  * @version 1.0
  */
 public class Dragon {
 
-    //4:28 pm first comment of the evening
+
+
+    //change my mind new commit 4:32pm
     private String name;
     private String specialMove;
     private double health;
@@ -16,7 +16,7 @@ public class Dragon {
     private boolean hungry;
 
     /**
-     * Default constructor with predefined values
+     * Default constructor with predefined values 
      */
     public Dragon() {
 
@@ -29,12 +29,12 @@ public class Dragon {
     }
 
     /**
-     *
+     * 
      * @param name The "Name" of the dragon object
      * @param specialMove The "Special Move" the dragon object wields
      * @param health The "Health Level" of the dragon object
      * @param weight The "Weight" of the dragon object
-     * @param hungry The "Hungry" state of the dragon object.
+     * @param hungry The "Hungry" state of the dragon object. 
      */
     public Dragon(String name, String specialMove, double health, double weight, boolean hungry) {
         this.name = name;
@@ -66,9 +66,8 @@ public class Dragon {
     // GETTERS
     /**
      * This method returns the "Name" of the dragon object
-     *
-     * @return Returns a "String" Value. The value represents that represents
-     * the "Name" of the dragon object
+     * @return Returns a "String" Value. The value represents that represents the
+     * "Name" of the dragon object
      */
     public String getName() {
         return this.name;
@@ -76,8 +75,8 @@ public class Dragon {
 
     /**
      * This method returns the "Special Move" of the dragon object
-     *
-     * @return Returns a "String" value. the value represents the "Special Move"
+     * 
+     * @return Returns a "String" value. the value represents the "Special Move" 
      * of the dragon object
      */
     public String getSpecialMove() {
@@ -86,7 +85,7 @@ public class Dragon {
 
     /**
      * This method returns the "Health Level" of the dragon object
-     *
+     * 
      * @return Returns a "double" value. the value represents the "Health Level"
      * of the dragon object.
      */
@@ -96,9 +95,9 @@ public class Dragon {
 
     /**
      * This method returns the "Weight" of the dragon object.
-     *
-     * @return Returns a "double" value. the value represents the "Weight" of
-     * the dragon object.
+     * 
+     * @return Returns a "double" value. the value represents the "Weight" of the
+     * dragon object.
      */
     public double getWeight() {
         return this.weight;
@@ -107,9 +106,8 @@ public class Dragon {
     /**
      * This method returns the a Boolean value that states if the dragon object
      * is "Hungry"
-     *
      * @return Returns a "double" value. The value represents the "Hungry" state
-     * of the dragon object
+     * of the dragon object 
      */
     public boolean getHungry() {
         return this.hungry;
@@ -175,5 +173,6 @@ public class Dragon {
                 && this.hungry == dragon.getHungry();
 
     }
+    
 
 }
