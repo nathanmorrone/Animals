@@ -9,6 +9,7 @@ public class Dragon {
 
 
     //change my mind new commit 4:32pm
+    //4:35 second commit
     private String name;
     private String specialMove;
     private double health;
