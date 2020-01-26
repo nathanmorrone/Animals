@@ -14,6 +14,7 @@ public class Dragon {
     //Fifth comment of the day
     //6th COMMENT OF THE DAY
     //7th comment of the day
+    //8th COMENT DRAGON MAN
     private String name;
     private String specialMove;
     private double health;
