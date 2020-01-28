@@ -11,6 +11,7 @@ public class Dragon {
 
 
     //January 27th 2020 first commit !
+    // SECOND COMMIT
     private String name;
     private String specialMove;
     private double health;
