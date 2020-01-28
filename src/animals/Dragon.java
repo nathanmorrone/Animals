@@ -9,8 +9,8 @@ public class Dragon {
 
 
 
-    //first commit of 1st branch
-    //2nd commit of 1st branch
+
+    //January 27th 2020 first commit !
     private String name;
     private String specialMove;
     private double health;
